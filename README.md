@@ -9,7 +9,7 @@ Build and train a neural network to predict whether a student will pass or fail 
 
 ## Data Preparation
 
-none
+Implementing a simple neural network using a custom dataset using PyTorch along with some other dependencies and the function to generate the dataset.
 
 ## Network Architecture
 
@@ -30,8 +30,11 @@ none
 
 ## Results & Visualization
 
+Test Loss: 0.2438156008720398
+Accuracy: 0.90 (27 out of 30 correct)
 
-
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0b47f46d-59da-4092-a4d6-b40dafe0de41" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/76e66ac3-0db1-42ba-ab2f-8adb1b1ac128" />
 
 ## How to Run
 
